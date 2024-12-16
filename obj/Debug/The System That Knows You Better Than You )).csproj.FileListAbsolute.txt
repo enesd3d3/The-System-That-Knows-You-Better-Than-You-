@@ -1,0 +1,17 @@
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\bin\Debug\The System That Knows You Better Than You )).exe.config
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\bin\Debug\The System That Knows You Better Than You )).exe
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\bin\Debug\The System That Knows You Better Than You )).pdb
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The System That Knows You Better Than You )).csproj.AssemblyReference.cache
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The_System_That_Knows_You_Better_Than_You___.Properties.Resources.resources
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The System That Knows You Better Than You )).csproj.GenerateResource.cache
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The System That Knows You Better Than You )).csproj.CoreCompileInputs.cache
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The System That Knows You Better Than You )).exe
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The System That Knows You Better Than You )).pdb
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The_System_That_Knows_You_Better_Than_You___.Buraya_tıkla.resources
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The_System_That_Knows_You_Better_Than_You___.Not_Giriş_Formu.resources
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The_System_That_Knows_You_Better_Than_You___.Kişilik_Özellikleri.resources
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\bin\Debug\System.Data.SQLite.dll
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\bin\Debug\System.Data.SQLite.xml
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The_System_That_Knows_You_Better_Than_You___.Öğrenci_girişi.resources
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The Syst.140AB2F9.Up2Date
+C:\Users\enoca\source\repos\The System That Knows You Better Than You ))\obj\Debug\The_System_That_Knows_You_Better_Than_You___.Grafik_Formu.resources
